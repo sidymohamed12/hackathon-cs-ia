@@ -11,7 +11,7 @@ import numpy as np;
     # - ajouter un client => khalil
     # - supprimer un cient => yhh ammannnnnnnnn
     # - supprimer un cient => souleymane "hello world"
-    
+    #Ibrahima Sarr    
 
 
 # 2 types d'approches
