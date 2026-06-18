@@ -9,7 +9,7 @@ import numpy as np;
     # - modifier produit  ==> Sidy
     # - supprimer produit
     # - ajouter un client => khalil
-    # - supprimer un cient => Omar
+    # Bonsoir je suis Ibrahima Sarr
     
 
 
