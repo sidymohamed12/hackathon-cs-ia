@@ -10,6 +10,7 @@ import numpy as np;
     # - supprimer produit
     # - ajouter un client => khalil
     # - supprimer un cient => yhh ammannnnnnnnn
+    # - supprimer un cient => souleymane "hello world"
     
 
 
