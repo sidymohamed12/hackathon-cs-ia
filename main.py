@@ -28,7 +28,31 @@ import numpy as np;
     #  - feat/update-product => Sidy
     
 
-# cree une branche dev : branche en commun
-# chacun va merge son travail dans dev    
+# cree une branche develop : branche en commun
+# chacun va merge son travail dans develop   
     
 # feat -> feature ? fonnctionnalité
+
+
+# les commandes
+
+    # pour creer une branche et l'envoyer dans github
+        # git checkout -b le-nom-de-la-branche
+        # git push -u origin le-nom-de-la-branche
+
+    # pour ajouter les modif sur github
+        # 1- git add .
+        # 2- git commit -m "ajout de quelque chose"
+        # 3- git push
+    
+    # pour merge :
+        # d'abord se pointer sur cette branche : 
+            #  git checkout le-nom-de-la-branche
+        # git merge le-nom-de-la-branche-a-merge
+        # git push
+        
+    # pour recuperer les dernieres modifs d'une branche :
+        # d'abord se pointer sur cette branche : 
+            #  git checkout le-nom-de-la-branche
+        # ensuite pour recuperer les modifs :
+            #  git pull
