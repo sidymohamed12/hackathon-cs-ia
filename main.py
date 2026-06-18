@@ -1,6 +1,3 @@
-import pandas as pnd;
-import numpy as np;
-
 
 # gestion de stock
 #  fonctionnalité : 
@@ -56,3 +53,25 @@ import numpy as np;
             #  git checkout le-nom-de-la-branche
         # ensuite pour recuperer les modifs :
             #  git pull
+            
+            
+# if 1 > 2:
+#     print("yhhhhhh")
+# else:
+#     print("ooohhhhh")
+#     print("eehhhhhh")
+    
+# print("je suis liiibbrrreeee")
+
+
+fruits = [
+            "pomme", 
+            "banana", 
+            "fraise",
+            [
+                "ok",
+                "yh"
+            ]
+          ]
+
+print(fruits[3][0])
