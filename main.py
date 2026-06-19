@@ -8,7 +8,7 @@ import numpy as np;
     # - lister produit    ==> Omar 
     # - modifier produit  ==> Sidy
     # - supprimer produit
-    # - ajouter un client => khalil
+    # - ajouter un client => moiss
     # - supprime un cient => Splendeur
     
 
